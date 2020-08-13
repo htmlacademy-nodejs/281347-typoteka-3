@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Сушко](https://up.htmlacademy.ru/nodejs/3/user/281347).
-* Наставник: `Неизвестно`.
+* Наставник: Кексобот.
 
 ---
 
